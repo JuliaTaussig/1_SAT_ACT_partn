@@ -1,4 +1,4 @@
-## Project 1: Standardized Testing, Statistical Summaries and Inference
+## Project 1: Comparing ACT and SAT Standardized Test Participation Rates Using Statistical Summaries
 
 ### Overview
 For this project, the aim was to inspect 2017 and 2018 state participation rate data and state average SAT and ACT score data and to identify trends in the data.  Another aim was to combine the data analysis with outside research to identify likely factors influencing ACT and SAT participation rates and scores in various states.  
